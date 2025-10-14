@@ -1,0 +1,386 @@
+[
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/Baleno.webp",
+        "img1": "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+        "img2": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d",
+        "img3": "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+        "img4": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d"
+      }
+    ],
+    "carName": "Baleno",
+    "carModel": 2023,
+    "carCompany": "Maruti Suzuki",
+    "sittingCapacity": 5,
+    "gearBox": "5-speed Manual",
+    "engine": "1197cc",
+    "transmission": "Manual",
+    "fuel": "Petrol",
+    "price": 700000,
+    "mileage": "22 km/l",
+    "color": ["Blue", "White", "Red"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/Brezza.webp",
+        "img1": "https://images.unsplash.com/photo-1601933470928-c6c86e6e04c1",
+        "img2": "https://images.unsplash.com/photo-1617814078917-195fdb9929d2",
+        "img3": "https://images.unsplash.com/photo-1619946794135-5b8c1d7a1e15",
+        "img4": "https://images.unsplash.com/photo-1602862848171-7e1f67655c42"
+      }
+    ],
+    "carName": "Brezza",
+    "carModel": 2023,
+    "carCompany": "Maruti Suzuki",
+    "sittingCapacity": 5,
+    "gearBox": "6-speed Automatic",
+    "engine": "1462cc",
+    "transmission": "Automatic",
+    "fuel": "Petrol",
+    "price": 950000,
+    "mileage": "20 km/l",
+    "color": ["White", "Black", "Silver"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/City.webp",
+        "img1": "https://images.unsplash.com/photo-1597007030730-1b1f9dcde7b3",
+        "img2": "https://images.unsplash.com/photo-1601933470928-c6c86e6e04c1",
+        "img3": "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+        "img4": "https://images.unsplash.com/photo-1563720223401-7a0a4b3e0b83"
+      }
+    ],
+    "carName": "City",
+    "carModel": 2024,
+    "carCompany": "Honda",
+    "sittingCapacity": 5,
+    "gearBox": "CVT",
+    "engine": "1498cc",
+    "transmission": "Automatic",
+    "fuel": "Petrol",
+    "price": 1250000,
+    "mileage": "18 km/l",
+    "color": ["Red", "White", "Blue", "Black"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/Ertiga.webp",
+        "img1": "https://images.unsplash.com/photo-1602862848171-7e1f67655c42",
+        "img2": "https://images.unsplash.com/photo-1619946794135-5b8c1d7a1e15",
+        "img3": "https://images.unsplash.com/photo-1601933470928-c6c86e6e04c1",
+        "img4": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+      }
+    ],
+    "carName": "Ertiga",
+    "carModel": 2023,
+    "carCompany": "Maruti Suzuki",
+    "sittingCapacity": 7,
+    "gearBox": "5-speed Manual",
+    "engine": "1462cc",
+    "transmission": "Manual",
+    "fuel": "Petrol/CNG",
+    "price": 1000000,
+    "mileage": "21 km/l",
+    "color": ["Silver", "Black", "White"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/Grand-Vitara.webp",
+        "img1": "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+        "img2": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d",
+        "img3": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d",
+        "img4": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+      }
+    ],
+    "carName": "Grand Vitara",
+    "carModel": 2023,
+    "carCompany": "Maruti Suzuki",
+    "sittingCapacity": 5,
+    "gearBox": "6-speed Automatic",
+    "engine": "1462cc",
+    "transmission": "Automatic",
+    "fuel": "Hybrid",
+    "price": 1500000,
+    "mileage": "19 km/l",
+    "color": ["Black", "White", "Silver"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/I20.webp",
+        "img1": "https://images.unsplash.com/photo-1601933470928-c6c86e6e04c1",
+        "img2": "https://images.unsplash.com/photo-1617814078917-195fdb9929d2",
+        "img3": "https://images.unsplash.com/photo-1619946794135-5b8c1d7a1e15",
+        "img4": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+      }
+    ],
+    "carName": "i20",
+    "carModel": 2024,
+    "carCompany": "Hyundai",
+    "sittingCapacity": 5,
+    "gearBox": "6-speed Manual",
+    "engine": "1493cc",
+    "transmission": "Manual",
+    "fuel": "Diesel",
+    "price": 900000,
+    "mileage": "21 km/l",
+    "color": ["Red", "White", "Blue"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/Nexon.webp",
+        "img1": "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+        "img2": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d",
+        "img3": "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+        "img4": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+      }
+    ],
+    "carName": "Nexon",
+    "carModel": 2023,
+    "carCompany": "Tata",
+    "sittingCapacity": 5,
+    "gearBox": "6-speed AMT",
+    "engine": "1497cc",
+    "transmission": "Automatic",
+    "fuel": "Petrol/Diesel",
+    "price": 1100000,
+    "mileage": "20 km/l",
+    "color": ["White", "Black", "Red"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/Punch.webp",
+        "img1": "https://images.unsplash.com/photo-1601933470928-c6c86e6e04c1",
+        "img2": "https://images.unsplash.com/photo-1617814078917-195fdb9929d2",
+        "img3": "https://images.unsplash.com/photo-1619946794135-5b8c1d7a1e15",
+        "img4": "https://images.unsplash.com/photo-1602862848171-7e1f67655c42"
+      }
+    ],
+    "carName": "Punch",
+    "carModel": 2023,
+    "carCompany": "Tata",
+    "sittingCapacity": 5,
+    "gearBox": "5-speed Manual",
+    "engine": "1199cc",
+    "transmission": "Manual",
+    "fuel": "Petrol",
+    "price": 750000,
+    "mileage": "22 km/l",
+    "color": ["Red", "White", "Silver"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/Scorpio-N.webp",
+        "img1": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d",
+        "img2": "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+        "img3": "https://images.unsplash.com/photo-1602862848171-7e1f67655c42",
+        "img4": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+      }
+    ],
+    "carName": "Scorpio-N",
+    "carModel": 2023,
+    "carCompany": "Mahindra",
+    "sittingCapacity": 7,
+    "gearBox": "6-speed Manual",
+    "engine": "2184cc",
+    "transmission": "Manual",
+    "fuel": "Diesel",
+    "price": 1600000,
+    "mileage": "15 km/l",
+    "color": ["Black", "Silver", "Blue"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/Sonet.webp",
+        "img1": "https://images.unsplash.com/photo-1597007030730-1b1f9dcde7b3",
+        "img2": "https://images.unsplash.com/photo-1601933470928-c6c86e6e04c1",
+        "img3": "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+        "img4": "https://images.unsplash.com/photo-1563720223401-7a0a4b3e0b83"
+      }
+    ],
+    "carName": "Sonet",
+    "carModel": 2023,
+    "carCompany": "Kia",
+    "sittingCapacity": 5,
+    "gearBox": "6-speed iMT",
+    "engine": "1493cc",
+    "transmission": "Manual/Automatic",
+    "fuel": "Diesel/Petrol",
+    "price": 1050000,
+    "mileage": "20 km/l",
+    "color": ["White", "Red", "Black"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/Swift.webp",
+        "img1": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d",
+        "img2": "https://images.unsplash.com/photo-1602862848171-7e1f67655c42",
+        "img3": "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+        "img4": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d"
+      }
+    ],
+    "carName": "Swift",
+    "carModel": 2023,
+    "carCompany": "Maruti Suzuki",
+    "sittingCapacity": 5,
+    "gearBox": "5-speed Manual",
+    "engine": "1197cc",
+    "transmission": "Manual",
+    "fuel": "Petrol",
+    "price": 650000,
+    "mileage": "22 km/l",
+    "color": ["Blue", "White", "Red"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/Syros.webp",
+        "img1": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d",
+        "img2": "https://images.unsplash.com/photo-1601933470928-c6c86e6e04c1",
+        "img3": "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+        "img4": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+      }
+    ],
+    "carName": "Syros",
+    "carModel": 2023,
+    "carCompany": "Unknown",
+    "sittingCapacity": 5,
+    "gearBox": "Automatic",
+    "engine": "2000cc",
+    "transmission": "Automatic",
+    "fuel": "Petrol",
+    "price": 1800000,
+    "mileage": "16 km/l",
+    "color": ["Black", "Red", "Silver"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/Venue.webp",
+        "img1": "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+        "img2": "https://images.unsplash.com/photo-1602862848171-7e1f67655c42",
+        "img3": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d",
+        "img4": "https://images.unsplash.com/photo-1502877338535-766e1452684a"
+      }
+    ],
+    "carName": "Venue",
+    "carModel": 2023,
+    "carCompany": "Hyundai",
+    "sittingCapacity": 5,
+    "gearBox": "6-speed iMT",
+    "engine": "1493cc",
+    "transmission": "Manual/Automatic",
+    "fuel": "Petrol/Diesel",
+    "price": 1100000,
+    "mileage": "19 km/l",
+    "color": ["White", "Blue", "Silver"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/Wagon-R.webp",
+        "img1": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d",
+        "img2": "https://images.unsplash.com/photo-1601933470928-c6c86e6e04c1",
+        "img3": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d",
+        "img4": "https://images.unsplash.com/photo-1502877338535-766e1452684a"
+      }
+    ],
+    "carName": "Wagon R",
+    "carModel": 2023,
+    "carCompany": "Maruti Suzuki",
+    "sittingCapacity": 5,
+    "gearBox": "5-speed Manual",
+    "engine": "998cc",
+    "transmission": "Manual",
+    "fuel": "Petrol/CNG",
+    "price": 550000,
+    "mileage": "23 km/l",
+    "color": ["Red", "White", "Blue"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/XL6.webp",
+        "img1": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d",
+        "img2": "https://images.unsplash.com/photo-1601933470928-c6c86e6e04c1",
+        "img3": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d",
+        "img4": "https://images.unsplash.com/photo-1502877338535-766e1452684a"
+      }
+    ],
+    "carName": "XL6",
+    "carModel": 2023,
+    "carCompany": "Maruti Suzuki",
+    "sittingCapacity": 6,
+    "gearBox": "6-speed Automatic",
+    "engine": "1462cc",
+    "transmission": "Automatic",
+    "fuel": "Petrol",
+    "price": 1200000,
+    "mileage": "18 km/l",
+    "color": ["Silver", "Black", "White"],
+    "quantity": 1,
+    "carType": "New"
+  },
+  {
+    "carImage": [
+      {
+        "main": "../public/Cars/XUV700.webp",
+        "img1": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d",
+        "img2": "https://images.unsplash.com/photo-1502877338535-766e1452684a",
+        "img3": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d",
+        "img4": "https://images.unsplash.com/photo-1602862848171-7e1f67655c42"
+      }
+    ],
+    "carName": "XUV700",
+    "carModel": 2023,
+    "carCompany": "Mahindra",
+    "sittingCapacity": 7,
+    "gearBox": "6-speed Manual/Automatic",
+    "engine": "2198cc",
+    "transmission": "Manual/Automatic",
+    "fuel": "Diesel/Petrol",
+    "price": 1850000,
+    "mileage": "15 km/l",
+    "color": ["White", "Black", "Silver"],
+    "quantity": 1,
+    "carType": "New"
+  }
+]
