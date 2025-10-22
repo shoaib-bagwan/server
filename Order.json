@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "68ea1b1662edf911178e405d"
+  },
+  "customerName": "Shoaib",
+  "customerEmail": "shoaib@gmail.com",
+  "customerAddress": "Pune",
+  "totalAmount": 0,
+  "cars": [
+    {
+      "carName": "City",
+      "carCompany": "Honda",
+      "carQuantity": 1,
+      "carModel": 2024,
+      "gearBox": "CVT",
+      "engine": "1498cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "totalPrice": 0,
+      "carType": "New",
+      "_id": {
+        "$oid": "68ea1b1662edf911178e405e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-11T08:53:42.624Z"
+  },
+  "__v": 0,
+  "status": "Cancelled by Admin"
+},
+{
+  "_id": {
+    "$oid": "68ea1dbed71f64618ab0fddb"
+  },
+  "customerName": "Shoaib",
+  "customerEmail": "shoaib@gmail.com",
+  "customerAddress": "Pune",
+  "totalAmount": 0,
+  "cars": [
+    {
+      "carName": "Brezza",
+      "carCompany": "Maruti Suzuki",
+      "carQuantity": 1,
+      "carModel": 2023,
+      "gearBox": "6-speed Automatic",
+      "engine": "1462cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "totalPrice": 0,
+      "carType": "New",
+      "_id": {
+        "$oid": "68ea1dbed71f64618ab0fddc"
+      }
+    },
+    {
+      "carName": "City",
+      "carCompany": "Honda",
+      "carQuantity": 1,
+      "carModel": 2024,
+      "gearBox": "CVT",
+      "engine": "1498cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "totalPrice": 0,
+      "carType": "New",
+      "_id": {
+        "$oid": "68ea1dbed71f64618ab0fddd"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-11T09:05:02.869Z"
+  },
+  "__v": 0,
+  "status": "Cancelled by Admin"
+},
+{
+  "_id": {
+    "$oid": "68ea22a5d71f64618ab0ff11"
+  },
+  "customerName": "shahid",
+  "customerEmail": "shahid@gmail.com",
+  "customerAddress": "Satara",
+  "totalAmount": 0,
+  "cars": [
+    {
+      "carName": "Brezza",
+      "carCompany": "Maruti Suzuki",
+      "carQuantity": 1,
+      "carModel": 2023,
+      "gearBox": "6-speed Automatic",
+      "engine": "1462cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "totalPrice": 0,
+      "carType": "New",
+      "_id": {
+        "$oid": "68ea22a5d71f64618ab0ff12"
+      }
+    },
+    {
+      "carName": "City",
+      "carCompany": "Honda",
+      "carQuantity": 1,
+      "carModel": 2024,
+      "gearBox": "CVT",
+      "engine": "1498cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "totalPrice": 0,
+      "carType": "New",
+      "_id": {
+        "$oid": "68ea22a5d71f64618ab0ff13"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-11T09:25:57.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ea239e24e801ed4448b6c2"
+  },
+  "status": "Cancelled by Admin",
+  "customerName": "Shoaib",
+  "customerEmail": "shoaib@gmail.com",
+  "customerAddress": "Pune",
+  "totalAmount": 0,
+  "cars": [
+    {
+      "carName": "Grand Vitara",
+      "carCompany": "Maruti Suzuki",
+      "carQuantity": 1,
+      "carModel": 2023,
+      "gearBox": "6-speed Automatic",
+      "engine": "1462cc",
+      "transmission": "Automatic",
+      "fuel": "Hybrid",
+      "totalPrice": 0,
+      "carType": "New",
+      "_id": {
+        "$oid": "68ea239e24e801ed4448b6c3"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-11T09:30:06.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ea422b94b30ed090c2d6a1"
+  },
+  "status": "Processing",
+  "customerName": "Shoaib",
+  "customerEmail": "shoaib@gmail.com",
+  "customerAddress": "Pune",
+  "totalAmount": 0,
+  "cars": [
+    {
+      "carName": "i20",
+      "carCompany": "Hyundai",
+      "carQuantity": 1,
+      "carModel": 2024,
+      "gearBox": "6-speed Manual",
+      "engine": "1493cc",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "totalPrice": 0,
+      "carType": "New",
+      "_id": {
+        "$oid": "68ea422b94b30ed090c2d6a2"
+      }
+    },
+    {
+      "carName": "Nexon",
+      "carCompany": "Tata",
+      "carQuantity": 1,
+      "carModel": 2023,
+      "gearBox": "6-speed AMT",
+      "engine": "1497cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol/Diesel",
+      "totalPrice": 0,
+      "carType": "New",
+      "_id": {
+        "$oid": "68ea422b94b30ed090c2d6a3"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-11T11:40:27.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ea4852ef37dba754a01c07"
+  },
+  "status": "Processing",
+  "customerName": "Shoaib",
+  "customerEmail": "shoaib@gmail.com",
+  "customerAddress": "Pune",
+  "totalAmount": 0,
+  "cars": [
+    {
+      "carName": "Swift",
+      "carCompany": "Maruti",
+      "carQuantity": 1,
+      "carModel": 2018,
+      "gearBox": "5",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "totalPrice": 0,
+      "carType": "Old",
+      "_id": {
+        "$oid": "68ea4852ef37dba754a01c08"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-11T12:06:42.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ea4d739056444683741121"
+  },
+  "status": "Processing",
+  "customerName": "Shoaib",
+  "customerEmail": "shoaib@gmail.com",
+  "customerAddress": "Pune",
+  "totalAmount": 0,
+  "cars": [
+    {
+      "carName": "Baleno",
+      "carCompany": "Maruti Suzuki",
+      "carQuantity": 1,
+      "carModel": 2023,
+      "gearBox": "5-speed Manual",
+      "engine": "1197cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "totalPrice": 0,
+      "carType": "New",
+      "_id": {
+        "$oid": "68ea4d739056444683741122"
+      }
+    },
+    {
+      "carName": "City",
+      "carCompany": "Honda",
+      "carQuantity": 1,
+      "carModel": 2024,
+      "gearBox": "CVT",
+      "engine": "1498cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "totalPrice": 0,
+      "carType": "New",
+      "_id": {
+        "$oid": "68ea4d739056444683741123"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-11T12:28:35.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ea4e349056444683741219"
+  },
+  "status": "Cancelled by Admin",
+  "customerName": "Shoaib",
+  "customerEmail": "shoaib@gmail.com",
+  "customerAddress": "Pune",
+  "totalAmount": 0,
+  "cars": [
+    {
+      "carName": "Nexon",
+      "carCompany": "Tata",
+      "carQuantity": 1,
+      "carModel": 2023,
+      "gearBox": "6-speed AMT",
+      "engine": "1497cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol/Diesel",
+      "totalPrice": 0,
+      "carType": "New",
+      "_id": {
+        "$oid": "68ea4e34905644468374121a"
+      }
+    },
+    {
+      "carName": "EcoSport",
+      "carCompany": "Ford",
+      "carQuantity": 1,
+      "carModel": 2019,
+      "gearBox": "6",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "totalPrice": 0,
+      "carType": "Old",
+      "_id": {
+        "$oid": "68ea4e34905644468374121b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-11T12:31:48.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ee28ccc78990e07a94125c"
+  },
+  "status": "Cancelled by User",
+  "customerName": "Shoaib",
+  "customerEmail": "shoaib@gmail.com",
+  "customerAddress": "Pune",
+  "totalAmount": 0,
+  "cars": [
+    {
+      "carName": "Baleno",
+      "carCompany": "Maruti Suzuki",
+      "carQuantity": 1,
+      "carModel": 2023,
+      "gearBox": "5-speed Manual",
+      "engine": "1197cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "totalPrice": 0,
+      "carType": "New",
+      "_id": {
+        "$oid": "68ee28ccc78990e07a94125d"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-10-14T10:41:16.308Z"
+  },
+  "__v": 0
+}]

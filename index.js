@@ -15,7 +15,7 @@ app.use(cors());
 app.use(express.json());
 
 // DB
-const MONGO_URL=process.env.MONGO_URL || "mongodb+srv://shoaibbagwan727_db_user:SI6MFUHP8GppBPiF@cluster0.ybasesk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const MONGO_URL=process.env.MONGO_URL || "mongodb+srv://shoaibbagwan727_db_user:SI6MFUHP8GppBPiF@cluster0.ybasesk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" || "mongodb://localhost:27017/Project";
 mongoose.connect(MONGO_URL,{ })
 .then(()=>{console.log("MongoDB connected")})
 .catch((e)=>{console.log(e)})

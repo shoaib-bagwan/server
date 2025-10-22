@@ -1,322 +1,330 @@
-[
-  {
-    "carImage": "https://example.com/images/car1.jpg",
-    "carName": "Swift",
-    "carModel": 2018,
-    "carCompany": "Maruti",
-    "sittingCapacity": 5,
-    "gearBox": "5",
-    "ownerNumber": 1,
-    "transmission": "Manual",
-    "fuel": "Petrol",
-    "price": "450000",
-    "isAccident": false,
-    "color": "White",
-    "paperValidTill": "2026-05-12",
-    "carType": "Old"
+[{
+  "_id": {
+    "$oid": "68ea47b4f6e21ffd0d407384"
   },
-  {
-    "carImage": "https://example.com/images/car2.jpg",
-    "carName": "i20",
-    "carModel": 2019,
-    "carCompany": "Hyundai",
-    "sittingCapacity": 5,
-    "gearBox": "6",
-    "ownerNumber": 2,
-    "transmission": "Manual",
-    "fuel": "Diesel",
-    "price": "580000",
-    "isAccident": false,
-    "color": "Red",
-    "paperValidTill": "2027-03-18",
-    "carType": "Old"
+  "carImage": [
+    {
+      "main": "https://mda.spinny.com/sp-file-system/public/2025-10-11/5db05b9666ae4ccfabab52ea5da81d95/raw/file.JPG?q=85",
+      "i1": "https://mda.spinny.com/sp-file-system/public/2025-10-11/438369210f914ced8a8622b83b038855/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i2": "https://mda.spinny.com/sp-file-system/public/2025-10-11/cb29cf97d3814d5381e4c1968f404658/raw/file.JPG?q=85&w=320",
+      "i3": "https://mda.spinny.com/sp-file-system/public/2025-10-11/f5b313d28016484d8fad6e6d8996a896/raw/file.JPG?q=85&w=320",
+      "i4": "https://mda.spinny.com/sp-file-system/public/2025-10-11/87058d35473b488bac13354564116b40/raw/file.JPG?q=85&w=320",
+      "_id": {
+        "$oid": "68ee2d86df3f65cc2ffbaab2"
+      }
+    }
+  ],
+  "carName": "Swift",
+  "carModel": 2018,
+  "carCompany": "Maruti",
+  "sittingCapacity": 5,
+  "gearBox": "5",
+  "ownerNumber": 1,
+  "transmission": "Manual",
+  "fuel": "Petrol",
+  "price": "450000",
+  "isAccident": false,
+  "color": "White",
+  "paperValidTill": "2026-05-12",
+  "carType": "Old"
+},
+{
+  "_id": {
+    "$oid": "68ea47b4f6e21ffd0d407385"
   },
-  {
-    "carImage": "https://example.com/images/car3.jpg",
-    "carName": "City",
-    "carModel": 2017,
-    "carCompany": "Honda",
-    "sittingCapacity": 5,
-    "gearBox": "6",
-    "ownerNumber": 1,
-    "transmission": "Automatic",
-    "fuel": "Petrol",
-    "price": "720000",
-    "isAccident": false,
-    "color": "Silver",
-    "paperValidTill": "2025-11-01",
-    "carType": "Old"
+  "carImage": [
+    {
+      "main": "https://mda.spinny.com/sp-file-system/public/2025-09-30/47c04564e11e41199be14164e3e6d51a/raw/file.JPG?q=85",
+      "i1": "https://mda.spinny.com/sp-file-system/public/2025-09-30/98261ec3e01d4d27bc06903e2b830c0b/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i2": "https://mda.spinny.com/sp-file-system/public/2025-09-30/6159c2ae9cff45bd8749d03489167391/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i3": "https://mda.spinny.com/sp-file-system/public/2025-09-30/feed3050b9544ea2a50bb061f6b76836/raw/file.JPG?q=85&w=320",
+      "i4": "https://mda.spinny.com/sp-file-system/public/2025-09-30/2c07720a159d4a4a9ac294e6aa53fb9c/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "_id": {
+        "$oid": "68ee2e27df3f65cc2ffbaae3"
+      }
+    }
+  ],
+  "carName": "i20",
+  "carModel": 2019,
+  "carCompany": "Hyundai",
+  "sittingCapacity": 5,
+  "gearBox": "6",
+  "ownerNumber": 2,
+  "transmission": "Manual",
+  "fuel": "Diesel",
+  "price": "580000",
+  "isAccident": false,
+  "color": "Red",
+  "paperValidTill": "2027-03-18",
+  "carType": "Old"
+},
+{
+  "_id": {
+    "$oid": "68ea47b4f6e21ffd0d407386"
   },
-  {
-    "carImage": "https://example.com/images/car4.jpg",
-    "carName": "Baleno",
-    "carModel": 2016,
-    "carCompany": "Maruti",
-    "sittingCapacity": 5,
-    "gearBox": "5",
-    "ownerNumber": 2,
-    "transmission": "Manual",
-    "fuel": "Petrol",
-    "price": "380000",
-    "isAccident": false,
-    "color": "Blue",
-    "paperValidTill": "2024-12-30",
-    "carType": "Old"
+  "carImage": [
+    {
+      "main": "https://mda.spinny.com/sp-file-system/public/2025-10-03/fc5fcf644e66483d8aa3a6967bfcf8d9/raw/file.JPG?q=85",
+      "i1": "https://mda.spinny.com/sp-file-system/public/2025-10-03/01226fcf321a4a4bbe04bd0b51cdf640/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i2": "https://mda.spinny.com/sp-file-system/public/2025-10-03/eff362b843e7466eb926d5c39d539c01/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i3": "https://mda.spinny.com/sp-file-system/public/2025-10-03/2ee68a8b0c534c06895aa640c10c024b/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i4": "https://mda.spinny.com/sp-file-system/public/2025-10-03/99d9a0dcff57402797b65e612e1f48e0/raw/file.JPG?q=85&w=320",
+      "_id": {
+        "$oid": "68ee2f0cdf3f65cc2ffbabf0"
+      }
+    }
+  ],
+  "carName": "City",
+  "carModel": 2017,
+  "carCompany": "Honda",
+  "sittingCapacity": 5,
+  "gearBox": "6",
+  "ownerNumber": 1,
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "price": "720000",
+  "isAccident": false,
+  "color": "Silver",
+  "paperValidTill": "2025-11-01",
+  "carType": "Old"
+},
+{
+  "_id": {
+    "$oid": "68ea47b4f6e21ffd0d407387"
   },
-  {
-    "carImage": "https://example.com/images/car5.jpg",
-    "carName": "Innova Crysta",
-    "carModel": 2018,
-    "carCompany": "Toyota",
-    "sittingCapacity": 7,
-    "gearBox": "6",
-    "ownerNumber": 1,
-    "transmission": "Manual",
-    "fuel": "Diesel",
-    "price": "1350000",
-    "isAccident": false,
-    "color": "Black",
-    "paperValidTill": "2027-06-14",
-    "carType": "Old"
+  "carImage": [
+    {
+      "main": "https://mda.spinny.com/sp-file-system/public/2025-10-07/8d864d1bde794eb29ca665a6678d65ce/raw/file.JPG?q=85",
+      "i1": "https://mda.spinny.com/sp-file-system/public/2025-10-07/f21d1a6e5bad49c3a02efea2d9a2c5a4/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i2": "https://mda.spinny.com/sp-file-system/public/2025-10-07/63bfae6e5a2e44e5aa93d0ebf09a9cf1/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i3": "https://mda.spinny.com/sp-file-system/public/2025-10-07/65f2e037e73444d5a2e44396a3d38aab/raw/file.JPG?q=85&w=320",
+      "i4": "https://mda.spinny.com/sp-file-system/public/2025-10-07/26295fb148374291ad4d9ff1a96736b0/raw/file.JPG?q=85&w=320",
+      "_id": {
+        "$oid": "68ee2f9fdf3f65cc2ffbac09"
+      }
+    }
+  ],
+  "carName": "Baleno",
+  "carModel": 2016,
+  "carCompany": "Maruti",
+  "sittingCapacity": 5,
+  "gearBox": "5",
+  "ownerNumber": 2,
+  "transmission": "Manual",
+  "fuel": "Petrol",
+  "price": "380000",
+  "isAccident": false,
+  "color": "Blue",
+  "paperValidTill": "2024-12-30",
+  "carType": "Old"
+},
+{
+  "_id": {
+    "$oid": "68ea47b4f6e21ffd0d407388"
   },
-  {
-    "carImage": "https://example.com/images/car6.jpg",
-    "carName": "EcoSport",
-    "carModel": 2019,
-    "carCompany": "Ford",
-    "sittingCapacity": 5,
-    "gearBox": "6",
-    "ownerNumber": 1,
-    "transmission": "Automatic",
-    "fuel": "Petrol",
-    "price": "840000",
-    "isAccident": false,
-    "color": "Grey",
-    "paperValidTill": "2026-10-22",
-    "carType": "Old"
+  "carImage": [
+    {
+      "main": "https://mda.spinny.com/sp-file-system/public/2025-10-08/40b731fed560483d8ed5fbeabcdc0cad/raw/file.JPG?q=85",
+      "i1": "https://mda.spinny.com/sp-file-system/public/2025-10-08/a7355f290c0a4ad7b22cc657cf6ea986/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i2": "https://mda.spinny.com/sp-file-system/public/2025-10-08/6df17f66c2544858b42507619b62436d/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i3": "https://mda.spinny.com/sp-file-system/public/2025-10-08/0483b43d689849c3bfcf191ff5113bca/raw/file.JPG?q=85&w=320",
+      "i4": "https://mda.spinny.com/sp-file-system/public/2025-10-08/53db361d473a49e599244cd138f1e811/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "_id": {
+        "$oid": "68ee3013df3f65cc2ffbac22"
+      }
+    }
+  ],
+  "carName": "Innova Crysta",
+  "carModel": 2018,
+  "carCompany": "Toyota",
+  "sittingCapacity": 7,
+  "gearBox": "6",
+  "ownerNumber": 1,
+  "transmission": "Manual",
+  "fuel": "Diesel",
+  "price": "1350000",
+  "isAccident": false,
+  "color": "Black",
+  "paperValidTill": "2027-06-14",
+  "carType": "Old"
+},
+{
+  "_id": {
+    "$oid": "68ea47b4f6e21ffd0d407389"
   },
-  {
-    "carImage": "https://example.com/images/car7.jpg",
-    "carName": "Creta",
-    "carModel": 2020,
-    "carCompany": "Hyundai",
-    "sittingCapacity": 5,
-    "gearBox": "6",
-    "ownerNumber": 1,
-    "transmission": "Automatic",
-    "fuel": "Diesel",
-    "price": "1450000",
-    "isAccident": false,
-    "color": "White",
-    "paperValidTill": "2028-01-10",
-    "carType": "Old"
+  "carImage": [
+    {
+      "main": "https://mda.spinny.com/sp-file-system/public/2025-09-24/39800fdc58da43248e31888898bc9021/raw/file.JPG?q=85",
+      "i1": "https://mda.spinny.com/sp-file-system/public/2025-09-24/3afe65f82f2144b4973d877eb3ef8bd9/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i2": "https://mda.spinny.com/sp-file-system/public/2025-09-24/39f3cd4fe3fe487fa76a6b525b56e7aa/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i3": "https://mda.spinny.com/sp-file-system/public/2025-09-24/bb314bda1ff04200a6cd77924d72d392/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i4": "https://mda.spinny.com/sp-file-system/public/2025-09-24/b9af44ba99854ef68e6930fbb11e4f8f/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "_id": {
+        "$oid": "68ee30a2df3f65cc2ffbac3b"
+      }
+    }
+  ],
+  "carName": "EcoSport",
+  "carModel": 2019,
+  "carCompany": "Ford",
+  "sittingCapacity": 5,
+  "gearBox": "6",
+  "ownerNumber": 1,
+  "transmission": "Automatic",
+  "fuel": "Petrol",
+  "price": "840000",
+  "isAccident": false,
+  "color": "Grey",
+  "paperValidTill": "2026-10-22",
+  "carType": "Old"
+},
+{
+  "_id": {
+    "$oid": "68ea47b4f6e21ffd0d40738a"
   },
-  {
-    "carImage": "https://example.com/images/car8.jpg",
-    "carName": "Dzire",
-    "carModel": 2015,
-    "carCompany": "Maruti",
-    "sittingCapacity": 5,
-    "gearBox": "5",
-    "ownerNumber": 3,
-    "transmission": "Manual",
-    "fuel": "Petrol",
-    "price": "350000",
-    "isAccident": true,
-    "color": "Silver",
-    "paperValidTill": "2025-08-05",
-    "carType": "Old"
+  "carImage": [
+    {
+      "main": "https://mda.spinny.com/sp-file-system/public/2025-07-31/ab7b2f3ddb0a4b8b946ffaa2f9c886f8/raw/file.JPG?q=85",
+      "i1": "https://mda.spinny.com/sp-file-system/public/2025-07-31/906f15957dc54d718f6e8caf7a8e285b/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i2": "https://mda.spinny.com/sp-file-system/public/2025-07-31/605f19b246d5492693a2e6651e8899c3/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i3": "https://mda.spinny.com/sp-file-system/public/2025-07-31/d4ae213d1bbf42de9fe079072d685f6d/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i4": "https://mda.spinny.com/sp-file-system/public/2025-07-31/aed8c490df6b4e05b623c04ab2481aa3/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "_id": {
+        "$oid": "68ee3117df3f65cc2ffbac54"
+      }
+    }
+  ],
+  "carName": "Creta",
+  "carModel": 2020,
+  "carCompany": "Hyundai",
+  "sittingCapacity": 5,
+  "gearBox": "6",
+  "ownerNumber": 1,
+  "transmission": "Automatic",
+  "fuel": "Diesel",
+  "price": "1450000",
+  "isAccident": false,
+  "color": "White",
+  "paperValidTill": "2028-01-10",
+  "carType": "Old"
+},
+{
+  "_id": {
+    "$oid": "68ea47b4f6e21ffd0d40738b"
   },
-  {
-    "carImage": "https://example.com/images/car9.jpg",
-    "carName": "XUV500",
-    "carModel": 2018,
-    "carCompany": "Mahindra",
-    "sittingCapacity": 7,
-    "gearBox": "6",
-    "ownerNumber": 2,
-    "transmission": "Manual",
-    "fuel": "Diesel",
-    "price": "1200000",
-    "isAccident": false,
-    "color": "Brown",
-    "paperValidTill": "2026-09-18",
-    "carType": "Old"
+  "carImage": [
+    {
+      "main": "https://mda.spinny.com/sp-file-system/public/2025-09-16/fdedcc3137244184815e2821ea54aff5/raw/file.JPG?q=85",
+      "i1": "https://mda.spinny.com/sp-file-system/public/2025-09-16/14eb999442de4147aee701a0f8e67e6c/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i2": "https://mda.spinny.com/sp-file-system/public/2025-09-16/33eb401ace06476b9e1b95d0f2bf5e08/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i3": "https://mda.spinny.com/sp-file-system/public/2025-09-16/30b8dd6851f048869c23b30678c76e39/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i4": "https://mda.spinny.com/sp-file-system/public/2025-09-16/ca9f27261abc48b9ad5d84fdaa4d34f3/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "_id": {
+        "$oid": "68ee3184df3f65cc2ffbac6d"
+      }
+    }
+  ],
+  "carName": "Dzire",
+  "carModel": 2015,
+  "carCompany": "Maruti",
+  "sittingCapacity": 5,
+  "gearBox": "5",
+  "ownerNumber": 3,
+  "transmission": "Manual",
+  "fuel": "Petrol",
+  "price": "350000",
+  "isAccident": true,
+  "color": "Silver",
+  "paperValidTill": "2025-08-05",
+  "carType": "Old"
+},
+{
+  "_id": {
+    "$oid": "68ea47b4f6e21ffd0d40738c"
   },
-  {
-    "carImage": "https://example.com/images/car10.jpg",
-    "carName": "Altroz",
-    "carModel": 2021,
-    "carCompany": "Tata",
-    "sittingCapacity": 5,
-    "gearBox": "6",
-    "ownerNumber": 1,
-    "transmission": "Manual",
-    "fuel": "Petrol",
-    "price": "680000",
-    "isAccident": false,
-    "color": "Yellow",
-    "paperValidTill": "2029-04-21",
-    "carType": "Old"
+  "carImage": [
+    {
+      "main": "https://mda.spinny.com/sp-file-system/public/2025-10-06/76144095209c4aa9be1426a484dbd7ec/raw/file.JPG?q=85",
+      "i1": "https://mda.spinny.com/sp-file-system/public/2025-10-06/29e2effab635447a8c14341418f6e94f/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i2": "https://mda.spinny.com/sp-file-system/public/2025-10-06/57f5aa62917d44ba8d5253eb7f360e8f/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i3": "https://mda.spinny.com/sp-file-system/public/2025-10-06/306aacc9559d450f8619d231c804f72d/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i4": "https://mda.spinny.com/sp-file-system/public/2025-10-06/723935aad2fa4c009cab5923ce3fb4e7/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "_id": {
+        "$oid": "68ee7de9041c106846fe02ce"
+      }
+    }
+  ],
+  "carName": "XUV500",
+  "carModel": 2018,
+  "carCompany": "Mahindra",
+  "sittingCapacity": 7,
+  "gearBox": "6",
+  "ownerNumber": 2,
+  "transmission": "Manual",
+  "fuel": "Diesel",
+  "price": "1200000",
+  "isAccident": false,
+  "color": "Brown",
+  "paperValidTill": "2026-09-18",
+  "carType": "Old"
+},
+{
+  "_id": {
+    "$oid": "68ea47b4f6e21ffd0d40738d"
   },
-  {
-    "carImage": "https://example.com/images/car11.jpg",
-    "carName": "Scorpio",
-    "carModel": 2017,
-    "carCompany": "Mahindra",
-    "sittingCapacity": 7,
-    "gearBox": "6",
-    "ownerNumber": 2,
-    "transmission": "Manual",
-    "fuel": "Diesel",
-    "price": "950000",
-    "isAccident": false,
-    "color": "White",
-    "paperValidTill": "2025-12-19",
-    "carType": "Old"
+  "carImage": [
+    {
+      "main": "https://mda.spinny.com/sp-file-system/public/2025-09-05/41be04ac53d64627b46590fffd01c09e/raw/file.JPG?q=85",
+      "i1": "https://mda.spinny.com/sp-file-system/public/2025-09-05/b95fc41a39964141b7ab61e519510a15/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i2": "https://mda.spinny.com/sp-file-system/public/2025-09-05/f7a37607f4844f64a79c143569535ff6/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i3": "https://mda.spinny.com/sp-file-system/public/2025-09-05/9687216f661e4160b954a60632562a21/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i4": "https://mda.spinny.com/sp-file-system/public/2025-09-05/49f6b02048294f3390bea00fe9ed9e80/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "_id": {
+        "$oid": "68ee7e5e041c106846fe02df"
+      }
+    }
+  ],
+  "carName": "Altroz",
+  "carModel": 2021,
+  "carCompany": "Tata",
+  "sittingCapacity": 5,
+  "gearBox": "6",
+  "ownerNumber": 1,
+  "transmission": "Manual",
+  "fuel": "Petrol",
+  "price": "680000",
+  "isAccident": false,
+  "color": "Yellow",
+  "paperValidTill": "2029-04-21",
+  "carType": "Old"
+},
+{
+  "_id": {
+    "$oid": "68ea47b4f6e21ffd0d40738e"
   },
-  {
-    "carImage": "https://example.com/images/car12.jpg",
-    "carName": "Fortuner",
-    "carModel": 2019,
-    "carCompany": "Toyota",
-    "sittingCapacity": 7,
-    "gearBox": "6",
-    "ownerNumber": 1,
-    "transmission": "Automatic",
-    "fuel": "Diesel",
-    "price": "2800000",
-    "isAccident": false,
-    "color": "Black",
-    "paperValidTill": "2027-07-30",
-    "carType": "Old"
-  },
-  {
-    "carImage": "https://example.com/images/car13.jpg",
-    "carName": "Polo",
-    "carModel": 2016,
-    "carCompany": "Volkswagen",
-    "sittingCapacity": 5,
-    "gearBox": "5",
-    "ownerNumber": 2,
-    "transmission": "Manual",
-    "fuel": "Petrol",
-    "price": "460000",
-    "isAccident": false,
-    "color": "Red",
-    "paperValidTill": "2024-10-25",
-    "carType": "Old"
-  },
-  {
-    "carImage": "https://example.com/images/car14.jpg",
-    "carName": "Tiago",
-    "carModel": 2020,
-    "carCompany": "Tata",
-    "sittingCapacity": 5,
-    "gearBox": "5",
-    "ownerNumber": 1,
-    "transmission": "Manual",
-    "fuel": "Petrol",
-    "price": "500000",
-    "isAccident": false,
-    "color": "Orange",
-    "paperValidTill": "2028-12-12",
-    "carType": "Old"
-  },
-  {
-    "carImage": "https://example.com/images/car15.jpg",
-    "carName": "Venue",
-    "carModel": 2021,
-    "carCompany": "Hyundai",
-    "sittingCapacity": 5,
-    "gearBox": "6",
-    "ownerNumber": 1,
-    "transmission": "Automatic",
-    "fuel": "Petrol",
-    "price": "950000",
-    "isAccident": false,
-    "color": "Blue",
-    "paperValidTill": "2029-02-15",
-    "carType": "Old"
-  },
-  {
-    "carImage": "https://example.com/images/car16.jpg",
-    "carName": "Kwid",
-    "carModel": 2019,
-    "carCompany": "Renault",
-    "sittingCapacity": 5,
-    "gearBox": "5",
-    "ownerNumber": 2,
-    "transmission": "Manual",
-    "fuel": "Petrol",
-    "price": "320000",
-    "isAccident": true,
-    "color": "Silver",
-    "paperValidTill": "2026-01-28",
-    "carType": "Old"
-  },
-  {
-    "carImage": "https://example.com/images/car17.jpg",
-    "carName": "Ertiga",
-    "carModel": 2018,
-    "carCompany": "Maruti",
-    "sittingCapacity": 7,
-    "gearBox": "5",
-    "ownerNumber": 2,
-    "transmission": "Manual",
-    "fuel": "Petrol",
-    "price": "780000",
-    "isAccident": false,
-    "color": "White",
-    "paperValidTill": "2026-03-19",
-    "carType": "Old"
-  },
-  {
-    "carImage": "https://example.com/images/car18.jpg",
-    "carName": "Thar",
-    "carModel": 2021,
-    "carCompany": "Mahindra",
-    "sittingCapacity": 4,
-    "gearBox": "6",
-    "ownerNumber": 1,
-    "transmission": "Manual",
-    "fuel": "Diesel",
-    "price": "1500000",
-    "isAccident": false,
-    "color": "Black",
-    "paperValidTill": "2029-09-09",
-    "carType": "Old"
-  },
-  {
-    "carImage": "https://example.com/images/car19.jpg",
-    "carName": "Jazz",
-    "carModel": 2017,
-    "carCompany": "Honda",
-    "sittingCapacity": 5,
-    "gearBox": "6",
-    "ownerNumber": 2,
-    "transmission": "Automatic",
-    "fuel": "Petrol",
-    "price": "600000",
-    "isAccident": false,
-    "color": "Grey",
-    "paperValidTill": "2025-11-15",
-    "carType": "Old"
-  },
-  {
-    "carImage": "https://example.com/images/car20.jpg",
-    "carName": "Ciaz",
-    "carModel": 2018,
-    "carCompany": "Maruti",
-    "sittingCapacity": 5,
-    "gearBox": "5",
-    "ownerNumber": 1,
-    "transmission": "Manual",
-    "fuel": "Diesel",
-    "price": "870000",
-    "isAccident": false,
-    "color": "Brown",
-    "paperValidTill": "2026-04-04",
-    "carType": "Old"
-  }
-]
+  "carImage": [
+    {
+      "main": "https://mda.spinny.com/sp-file-system/public/2025-02-10/6582fe09bf5b4f039db85828bcc6ed60/raw/file.JPG?q=85",
+      "i1": "https://mda.spinny.com/sp-file-system/public/2025-02-10/3819bfb441f24187ac8ff88cbcd263ce/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i2": "https://mda.spinny.com/sp-file-system/public/2025-02-10/86a8c5426e164a268c2565ce7514a575/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i3": "https://mda.spinny.com/sp-file-system/public/2025-02-10/039aede41bbc43968cdf7e3fb5697295/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "i4": "https://mda.spinny.com/sp-file-system/public/2025-02-10/14f039041e6a486599a7dd0a8c44144a/raw/file.JPG?q=85&w=900&dpr=1.3",
+      "_id": {
+        "$oid": "68ee7ecb041c106846fe02f0"
+      }
+    }
+  ],
+  "carName": "Scorpio",
+  "carModel": 2017,
+  "carCompany": "Mahindra",
+  "sittingCapacity": 7,
+  "gearBox": "6",
+  "ownerNumber": 2,
+  "transmission": "Manual",
+  "fuel": "Diesel",
+  "price": "950000",
+  "isAccident": false,
+  "color": "White",
+  "paperValidTill": "2025-12-19",
+  "carType": "Old"
+}]
