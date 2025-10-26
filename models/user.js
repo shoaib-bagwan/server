@@ -11,4 +11,4 @@ const Users=mongoose.Schema({
         default:'user'
     }
 });
-module.exports=mongoose.model("Users",Users);
+module.exports=mongoose.model("Users_Collection",Users);
